@@ -30,6 +30,20 @@ Steps:
 ![run](Images/.png)
 
 ---
+## Examples
+
+### Average price per night
+![run](Images/avg_price_per_night.png)
+### Bedroom to Square feet
+![run](Images/bdr_to_sqrft.png)
+### House Listing Visualizations
+![run](Images/listing_visualizations.png)
+### Median Listing Price by Neighborhood in Seattle
+![run](Images/median.png)
+### Street map for Seattle housing
+![run](Images/street_map.png)
+
+---
 ## Contributors
 
 Brought to you by Cole Ferrell, Martique Henton, Neha Jantre, Zach Zwiener.
