@@ -15,7 +15,7 @@ jupyter lab
 
 Upon launching the application in Jupyter lab notebook, run the file by using the run button on the top of the notepad.
 
-![run](Images/run.png)
+![run](images/run.png)
 
 ### Deploy the Notebook as a Web Application
 For this part of the assignment, complete the following steps:
@@ -24,24 +24,24 @@ Use the Voilà library to deploy your notebook as a web application. You can dep
 
 Steps:
 * Run the command "voila main.ipynb" in gitbash/terminal
-![run](Images/voila.png)
+![run](images/voila.png)
 
 * On the browser, you will see the web application as follows:
-![run](Images/.png)
+![run](images/.png)
 
 ---
 ## Examples
 
 ### Average price per night
-![run](Images/avg_price_per_night.png)
+![run](images/avg_price_per_night.png)
 ### Bedroom to Square feet
-![run](Images/bdr_to_sqrft.png)
+![run](images/bdr_to_sqrft.png)
 ### House Listing Visualizations
-![run](Images/listing_visualizations.png)
+![run](images/listing_visualizations.png)
 ### Median Listing Price by Neighborhood in Seattle
-![run](Images/median.png)
+![run](images/median.png)
 ### Street map for Seattle housing
-![run](Images/street_map.png)
+![run](images/street_map.png)
 
 ---
 ## Contributors
