@@ -1,5 +1,5 @@
 # Fintech Project1-Rental Income Home Evaluator
-Rental Income Home Evaluator
+![seattle](images/seattle.png)
 ## Background
 
 ## Instructions
